@@ -1,1 +1,4 @@
 testing connection after ssh key wasting time
+
+all is ok as git uses https, user and pw
+
