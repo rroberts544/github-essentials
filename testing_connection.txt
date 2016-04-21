@@ -1,3 +1,7 @@
+Let's then make a prerelease of the develop branch, 
+which contains new commits that do not exist in the master yet, 
+and name it v1.1.0rc1 # v0.6.0rc1
+
 testing connection after ssh key wasting time
 
 all is ok as git uses https, user and pw
